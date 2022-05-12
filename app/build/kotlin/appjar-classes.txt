@@ -1,0 +1,1 @@
+/Users/ljubomir/git/coing-test-kotlin/app/build/classes/kotlin/main/coing/test/kotlin/App.class
